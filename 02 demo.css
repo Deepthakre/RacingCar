@@ -1,0 +1,31 @@
+ #back{
+                background:url("https://img.freepik.com/free-vector/suburban-cottage-residential-house-with-garage_107791-1034.jpg?w=2000");
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-attachment: fixed;
+                width: auto;
+                height: 450px;
+            }
+            #road{
+                background:url("https://thumbs.dreamstime.com/t/asphalt-road-green-lawn-top-view-40938076.jpg");
+                 height: 180px;
+                   
+             }
+             #img{
+                  width:100px;
+                  padding-top: 40px;
+
+
+             }
+             #dbtn{
+                 color:yellow;
+                 text-align: right;
+                 padding-top: 240px;
+                 padding-right: 23px;
+                 letter-spacing: 25px;
+                 width: 100%;
+                 font-size: 30px;
+
+
+
+             }
